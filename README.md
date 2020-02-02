@@ -1,12 +1,12 @@
 # Gandalf
 
 FOR BSOD
-http://gandalf-szary.github.io
+https://gandalf-szary.github.io/
 
 FOR GIF (NOT WORK IN IE)
-http://gandalf-szary.github.io/?bg=gandalf
-http://gandalf-szary.github.io/?bg=southpatk
-http://gandalf-szary.github.io/?bg=nameOfGif
+https://gandalf-szary.github.io/?bg=gandalf
+https://gandalf-szary.github.io/?bg=southpatk
+https://gandalf-szary.github.io/?bg=nameOfGif
 
 FOR MOVING WINDOWS
-http://gandalf-szary.github.io/moveWindowOnSTH
+https://gandalf-szary.github.io/moveWindowOnSTH
